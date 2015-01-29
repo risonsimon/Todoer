@@ -17,7 +17,6 @@ $RECYCLE.BIN/
 
 #custom
 /node_modules
-config.js
 .idea
 # =========================
 # Operating System Files
